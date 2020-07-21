@@ -1,4 +1,4 @@
-### Hi I'am Mike 👋
+### Hi I am Mike 👋
 
 <!--
 **MikeCheng1208/MikeCheng1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
